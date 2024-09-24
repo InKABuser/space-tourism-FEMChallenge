@@ -342,6 +342,9 @@ main {
         width: 81%;
         justify-self: center;
     }
+    .launch-title {
+      font-size: 1.75em;
+    }
     .main-content {
         /* display: flex;
         flex-direction: row; */
